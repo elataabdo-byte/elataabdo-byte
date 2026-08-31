@@ -5,7 +5,7 @@
 ### 🤖 Computer Science Student | AI & Data Science Enthusiast | Python Developer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;AI+%26+Data+Science+Enthusiast;Python+Developer;Building+Practical+Projects;Always+Learning+%26+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;AI+%26+Data+Science+Enthusiast;Python+Developer;Building+Practical+Projects;Always+Learning+%26+Improving" alt="Typing SVG">
 </p>
 
 </div>

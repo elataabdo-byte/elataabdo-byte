@@ -32,7 +32,7 @@ I'm currently focused on improving my skills in **Python, Data Science, Machine 
 
 ## 🚀 What I'm Working On
 
-  <img src="https://media.giphy.com/media/H5C8CevNMbpBqNqFjl/giphy.gif" width="300">
+  <img  hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/H5C8CevNMbpBqNqFjl/giphy.gif" width="300">
 
 
 * 🤖 Artificial Intelligence

@@ -19,7 +19,7 @@ I'm a **Computer Science student at Mansoura University** with a strong interest
 I enjoy breaking complex problems into smaller pieces, understanding how things work, and turning what I learn into **practical projects**.
 
 I'm currently focused on improving my skills in **Python, Data Science, Machine Learning, AI, and problem solving** while building projects that solve real-world problems.
-
+<iframe src="https://giphy.com/embed/H5C8CevNMbpBqNqFjl" width="361" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moodman-monkey-side-eye-sideeye-H5C8CevNMbpBqNqFjl">via GIPHY</a></p>
 * 🎓 Computer Science Student @ Mansoura University
 * 🤖 Interested in AI, Machine Learning & Data Science
 * 🐍 Python Developer

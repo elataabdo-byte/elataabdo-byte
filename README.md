@@ -19,9 +19,6 @@ I'm a **Computer Science student at Mansoura University** with a strong interest
 I enjoy breaking complex problems into smaller pieces, understanding how things work, and turning what I learn into **practical projects**.
 
 I'm currently focused on improving my skills in **Python, Data Science, Machine Learning, AI, and problem solving** while building projects that solve real-world problems.
-<div align="center">
-  <img src="https://media.giphy.com/media/H5C8CevNMbpBqNqFjl/giphy.gif" width="300">
-</div>
 
 * 🎓 Computer Science Student @ Mansoura University
 * 🤖 Interested in AI, Machine Learning & Data Science
@@ -34,6 +31,9 @@ I'm currently focused on improving my skills in **Python, Data Science, Machine 
 ---
 
 ## 🚀 What I'm Working On
+
+  <img src="https://media.giphy.com/media/H5C8CevNMbpBqNqFjl/giphy.gif" width="300">
+
 
 * 🤖 Artificial Intelligence
 * 📊 Data Science

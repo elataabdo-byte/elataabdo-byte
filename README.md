@@ -80,22 +80,6 @@ I'm currently focused on improving my skills in **Python, Data Science, Machine 
 
 # 📌 Featured Projects
 
-### 🤖 AI Recruitment Intelligence Platform
-
-An AI-powered recruitment platform designed to intelligently connect **candidates and job opportunities**.
-
-**Key Features:**
-
-* 📄 CV information extraction
-* 🎯 Job recommendation
-* 🔍 Candidate-job matching
-* 📊 Candidate ranking
-* 🤖 AI/NLP-based analysis
-
-**Tech:** Python • NLP • Machine Learning • Data Science • SQL
-
----
-
 ### 🎮 Dots & Boxes AI
 
 A Flutter implementation of the classic **Dots & Boxes** game with an AI opponent.

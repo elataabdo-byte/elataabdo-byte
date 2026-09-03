@@ -108,44 +108,12 @@ A Flutter implementation of the classic **Dots & Boxes** game with an AI opponen
 
 **Tech:** Flutter • Dart • Minimax • Alpha-Beta Pruning
 
----
-
-### 🚦 AI Traffic & Road Safety Intelligence
-
-A Data Science / AI concept focused on analyzing traffic and accident data to identify dangerous patterns.
-
-**Analyzes:**
-
-* 🚗 Traffic conditions
-* 💥 Accident history
-* 🌦️ Weather conditions
-* 🛣️ Road conditions
-* ⏰ Time patterns
-
-**Goal:** Identify high-risk locations, dangerous periods, and major accident factors.
-
----
 
 ### 🖼️ Image Tampering Detection
 
 A Computer Vision project focused on identifying potential image manipulation using image-processing techniques.
 
 **Tech:** Python • OpenCV • Pillow • ELA
-
----
-
-### 🏛️ Ershidny
-
-**Smart Tourism Guidance & Tour Guide Management Platform**
-
-A platform designed to connect tourists with tour guides and improve the tourism experience.
-
-**Features:**
-
-* 🌍 Tourist & guide connection
-* 🗺️ Tourist attraction information
-* 📅 Tour booking
-* 👨‍🏫 Guide training
 
 ---
 
